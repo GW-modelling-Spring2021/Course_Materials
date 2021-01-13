@@ -68,7 +68,7 @@ I recommend you start by creating a directory for this class where you will keep
 ___
 <a name="classroom"></a>
 #### 4.  Homework and GitHub Classroom
-1. Click on the following link to create your personal homework repo: <https://classroom.github.com/a/zT8wt6bd>
+1. Click on the following link to create your personal homework repo: (link to be provided in the first class ... someone remind me, please!) 
 
 2. Make a local clone of your homework repo the same way you did with the course repo. You can refer back to the GitKraken approach instructions from **Step 3** just make make sure that you use the URL for your course homework repo this time and not the main course materials repo again.
       *Note:* If you received an error in the above steps, you may have to clone with HTTPS instead of SSH. You can do this by again clicking on the "Clone or Download" button in the repository page, then clicking "Use HTTPS" in the top right of the pop-up box. Now copy the link and repeat this step.
