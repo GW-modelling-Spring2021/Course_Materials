@@ -22,10 +22,11 @@ In this case, your model really should work.  One thing that might hang you up i
 
 Just to be sure that you have the right figures upon which to base your answers to The Challenge, I have included screenshots of the model with a homogeneous solution and another with a heterogeneous solution.  You do not need to use the same boundary condition or K values that I used.  In fact, I would encourage you to play around with the model a bit!
 
-![](HW1_homogeneous.jpg)
+![](assets/The_Challenge-e7287a98.JPG)
 *Figure 1: Spreadsheet with a solution for a homogeneous column.*
 
 ![](HW1_heterogeneous.jpg)
+![](assets/The_Challenge-261d7adc.JPG)
 
 *Figure 2: Spreadsheet with a solution for a two-layer heterogeneous column.*
 
