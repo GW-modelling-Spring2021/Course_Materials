@@ -16,7 +16,9 @@ You can structure your homework repo however you would like. It is your space to
 ## Submitting your first homework assignment
 1. Create a folder called HW1 (or whatever you want) in your homework repo and copy the starter codes and files into this folder.
 2. Do whatever work you need to complete your Homework
-3. When you are done take whatever you would like to submit and copy it into the submissions folder. Name your file with the HW number and your name.
+3. When you are done take whatever you would like to submit and copy it into the submissions folder. Name your file with your name as follows. 
+  - For example: correct_figures_Ferre.pdf  or  final_answer_to_Challenge_Ferre.pdf'
+  - You should only have the files for the most recent HW in your submission folder
 4. Commit and push your changes:
   - Open your homework repo on GitKraken use the guide on the right to 'stage all changes'
   - Enter a commit message explaining what your changes where in the bottom right and then hit 'stage files/changes to commit'
