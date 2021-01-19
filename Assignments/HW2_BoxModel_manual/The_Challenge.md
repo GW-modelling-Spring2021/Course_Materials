@@ -22,15 +22,15 @@ Build a model based on a homogeneous domain with a square region of lower K in t
 
 Just to be sure that you have the right figures upon which to base your answers to The Challenge, I have included screenshots of three figures.  The first shows the head distribution (in 2D, plan view) for a homogeneous system.  The second shows the distribution for a heterogeneous system.  The final shows the distribution for the final heterogeneous system - homogeneous with an inclusion.  As for the first assignment (Excel), you can use different head boundary values and K values.  Again, I would encourage you to do so to improve your intuition!
 
-![](homogeneous.jpg)
+![](assets/The_Challenge-9ece478c.JPG)
 
 *Figure 1: Steady state head distribution produced by a MODFLOW model of a homogeneous domain.*
 
-![](hetero_layer.jpg)
+![](assets/The_Challenge-b6f4ae28.JPG)
 
 *Figure 2: Steady state head distribution produced by a MODFLOW model of a zoned, heterogeneous domain.  Left half has K = 1 m/d, right half has K = 0.5 m/d*
 
-![](hetero_incl.jpg)
+![](assets/The_Challenge-2b0fc1a4.JPG)
 
 *Figure 3: Steady state head distribution produced by a MODFLOW model of a homogeneous domain with a low K inclusion.  The inclusion is in columns 11-15 and rows 11-15, inclusive.  The background has a K of 1 m/d and the inclusion 0.5 m/d.*
 
