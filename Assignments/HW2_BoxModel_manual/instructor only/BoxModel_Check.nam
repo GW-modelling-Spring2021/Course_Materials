@@ -3,8 +3,9 @@
 LIST               2  BoxModel_Check.list
 DIS               11  BoxModel_Check.dis
 BAS6              13  BoxModel_Check.bas
-BCF6              15  BoxModel_Check.bcf
+LPF               15  BoxModel_Check.lpf
 OC                14  BoxModel_Check.oc
 PCG               27  BoxModel_Check.pcg
+WEL               20  BoxModel_Check.wel
 DATA(BINARY)      53  BoxModel_Check.cbc REPLACE
 DATA(BINARY)      51  BoxModel_Check.hds REPLACE
