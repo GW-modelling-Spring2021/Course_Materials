@@ -51,3 +51,5 @@ Discuss what it means to say that, for steady state flow, there are equivalent T
 How could you (or did you) use looping to answer The Challenge more efficiently?
 
 What are some advantages (easy) and disadvantages (harder) of using flopy rather than building MODFLOW models manually?
+
+What would you find if you altered your model to consider unconfined conditions??
