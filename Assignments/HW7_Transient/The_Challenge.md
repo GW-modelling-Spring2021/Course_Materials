@@ -4,7 +4,9 @@ A flopy code is provided to you that simulates flow in a single layer model.  Th
 
 
 ### Model Description
-​The model that you have been provided is set up for a homogeneous medium.  The single-layer domain is 50x50 cells.  The cells are 10 m in lateral extent and 50 m in vertical. There is a well located at [0,20,20] (layer, row, column).  Recharge occurs at a rate of 5e-4 m/day.  The left and right boundaries have constant heads of 50 and 30, respectively.  The well is pumped cyclically.  Water is withdrawn at 500 m3/day for 90 days and then it is turned off for 270 days.  (Pretend that a year is 360 days long.)  The simulation is set to run for 100 years.  
+​The model that you have been provided is set up for a homogeneous medium with a K of 1 m/day in all directions.  The single-layer domain is 50x50 cells.  The cells are 10 m in lateral extent and 50 m in vertical. There is a well located at [0,20,20] (layer, row, column).  Recharge occurs at a rate of 5e-4 m/day.  The left and right boundaries have constant heads of 50 m and 30 m, respectively.  The well is pumped cyclically.  Water is withdrawn at 500 m3/day for 90 days and then it is turned off for 270 days.  (Pretend that a year is 360 days long.)  The simulation is set to run for 100 years.  
+
+Anything written in these directions supercedes anything in the header of the starter code.  For anything that is not mentioned explicitly here, follow the description in the header of the starter code.
 
 
 ### The Challenges
