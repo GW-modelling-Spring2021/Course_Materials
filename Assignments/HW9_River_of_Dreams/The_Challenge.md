@@ -22,4 +22,15 @@ The correct base figures are provided.
 Please check your figures and explanation with at least one other student before turning them in.  Include their comments in your initial submission!
 
 
+### What is Due? When?
+
+Sunday night: nothing is due.  But, I'm happy to look at your initial submission if you want to turn it in early.
+
+Monday night: your two one-at-a-time changes to the system - describe the change, show the flow and head plots before and after, explain why the hydrologic change led to the model output change.  Also include comments from at least one other student on your interpretation of the plots.
+
+Tuesday: come to class ready to share your results and explanations.
+
+Wednesday night: your final submission.
+
+
 Enjoy!
